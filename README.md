@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/srishti-singh01/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" height="25" alt="linkedin logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" height="20" alt="linkedin"  />
   </a>
   <a href="https://www.salesforce.com/trailblazer/srishtisingh" target="_blank">
-    <img src="https://www.radnip.com/salesforce-trailhead-is-liking-having-an-ai-tutor-standing-behind-you/trailhead-2/" height="25" alt="twitter logo"  />
+    <img src="https://www.radnip.com/salesforce-trailhead-is-liking-having-an-ai-tutor-standing-behind-you/trailhead-2/" height="20" alt="salesforce"  />
   </a>
 </div>
 
