@@ -18,6 +18,11 @@
     <img src="https://static.wikia.nocookie.net/logopedia/images/b/b1/Trailhead_old.svg/revision/latest?cb=20210528175818" height="40" alt="salesforce"  />
   </a>
 </div>
+<br>
+
+<div align="center">
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsrishtisingh34"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsrishtisingh34&labelColor=%23697689&countColor=%23d9e3f0&style=flat" /></a>
+</div>
 
 <!--
 **srishtisingh34/srishtisingh34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
