@@ -34,10 +34,16 @@
   <img width="10" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Hey_Machine_Learning_Logo.png" height="35" alt="Service now logo"  />
   <img width="10" />
- 
 
- 
 </div>
+<br>
+<br>
+
+- Programming Languages: R, Python, SQL, NoSQL, HTML
+- Databases: MySQL, BigQuery, MongoDB
+- Tools: Jupyter, Google Colab, Pycharm, R-studio, Tableau, PowerBI, Alteryx, DBT, Snowflake , GitHub, Flourish Studio, Data Wrapper, MS Excel
+- Libraries: NumPy, Pandas, Seaborn, Scikit-Learn, Matplotlib, Dplyr, Ggplot, Knitr
+- Data Analysis: EDA, Predictive Analytics, Statistical Modeling, Text Mining, Clustering
 
 <br><br>
 ### Connect with Me
